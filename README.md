@@ -27,7 +27,8 @@ notes/
 mini-projects/
 swiftui/
 portfolio/
-```
+resources/
+palygrounds/
 
 ---
 
